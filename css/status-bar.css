@@ -11,3 +11,11 @@
 .status-bar .status-bar__battery-full {
   margin-left: 5px;
 }
+
+.status-bar-screen {
+  background-image: url("../images/chatBG.png");
+  margin: 0px;
+  opacity: 1;
+  height: 34px;
+  align-items: center;
+}
